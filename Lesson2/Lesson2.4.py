@@ -1,0 +1,7 @@
+num1 = input("Enter a number: ")
+num2 = input("Enter a number: ")
+num3 = input("Enter a number: ")
+num4 = input("Enter a number: ")
+num5 = input("Enter a number: ")
+average = ((int(num1) + int(num2) + int(num3) + int(num4) + int(num5))/5)
+print(f"The average of the numbers = {average}")
